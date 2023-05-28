@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/drawable/circle_bg.xml" value="0.1445" />
         <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/activity_main.xml" value="0.20380434782608695" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/activity_notes.xml" value="0.18854166666666666" />
         <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/avatar_item.xml" value="0.203125" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/custom_popup.xml" value="0.264" />
       </map>
     </option>
   </component>

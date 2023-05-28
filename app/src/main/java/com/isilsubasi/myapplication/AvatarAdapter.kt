@@ -5,7 +5,9 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.isilsubasi.myapplication.databinding.AvatarItemBinding
 
-class AvatarAdapter(var avatarList : List<AvatarModel>) : RecyclerView.Adapter<AvatarAdapter.MyViewHolder>() {
+class AvatarAdapter(var avatarList : List<AvatarModel>,
+                    var onItemClickListener: ItemClickListener
+) : RecyclerView.Adapter<AvatarAdapter.MyViewHolder>() {
 
     inner class MyViewHolder(val binding : AvatarItemBinding) : RecyclerView.ViewHolder(binding.root)
 
@@ -20,6 +22,10 @@ class AvatarAdapter(var avatarList : List<AvatarModel>) : RecyclerView.Adapter<A
                 imageAvatar.setImageResource(avatarList[position].imageSrc)
             }
         }
+        holder.itemView.setOnClickListener {
+            onItemClickListener.onItemClick(position)
+        }
+
     }
 
     override fun getItemCount(): Int {
