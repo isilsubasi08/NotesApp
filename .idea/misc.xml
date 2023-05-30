@@ -5,9 +5,20 @@
       <map>
         <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/drawable/circle_bg.xml" value="0.1445" />
         <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/activity_main.xml" value="0.20380434782608695" />
-        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/activity_notes.xml" value="0.18854166666666666" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/activity_notes.xml" value="0.12" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
         <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/avatar_item.xml" value="0.203125" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/content_notes.xml" value="0.1" />
         <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/custom_popup.xml" value="0.264" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/fragment_demo.xml" value="0.15896739130434784" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/fragment_list.xml" value="0.1" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/fragment_notes.xml" value="0.1" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/nav_header.xml" value="0.1526268115942029" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/layout/row_nav_drawer.xml" value="0.1" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/menu/menu_drawer.xml" value="0.2046875" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/menu/my_menu.xml" value="0.23541666666666666" />
+        <entry key="..\:/2023-MyApp/NotesApp/NotesApp/app/src/main/res/menu/navigation_menu.xml" value="0.20833333333333334" />
       </map>
     </option>
   </component>

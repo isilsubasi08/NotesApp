@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="bottom"
+    android:paddingStart="12dp"
+    android:background="@color/light_purple"
+    android:layout_height="180dp">
+
+    <ImageView
+        android:id="@+id/iv_user"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/circle_bg"
+        app:srcCompat="@drawable/avatar1" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İsilay Deneme"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        />
+
+
+</LinearLayout>
